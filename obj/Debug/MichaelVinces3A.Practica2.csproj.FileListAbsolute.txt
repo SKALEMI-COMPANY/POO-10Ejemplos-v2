@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\MichaelVinces3A.Practica2\bin\Debug\MichaelVinces3A.Practica2.exe.config
+C:\Users\PC\source\repos\MichaelVinces3A.Practica2\bin\Debug\MichaelVinces3A.Practica2.exe
+C:\Users\PC\source\repos\MichaelVinces3A.Practica2\bin\Debug\MichaelVinces3A.Practica2.pdb
+C:\Users\PC\source\repos\MichaelVinces3A.Practica2\obj\Debug\MichaelVinces3A.Practica2.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\MichaelVinces3A.Practica2\obj\Debug\MichaelVinces3A.Practica2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\MichaelVinces3A.Practica2\obj\Debug\MichaelVinces3A.Practica2.exe
+C:\Users\PC\source\repos\MichaelVinces3A.Practica2\obj\Debug\MichaelVinces3A.Practica2.pdb
